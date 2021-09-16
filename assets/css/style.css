@@ -1,0 +1,50 @@
+#education {
+  padding: 100px 0;
+}
+
+#education .education-item-title h2 {
+  text-transform: lowercase;
+  line-height: 0.6;
+}
+#education .education-item-title h2 span {
+  font-weight: 300;
+}
+
+#education .education-item-title p {
+  font-size: 10px;
+}
+#education .education-item-title a {
+  color: #000;
+  font-weight: 600;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+#education .education-item-title a:hover i {
+  color: rgb(209, 50, 50);
+}
+
+#education .education-item {
+  padding: 20px;
+}
+#education .education-item:hover {
+  color: #fff;
+  background-color: blueviolet;
+  cursor: pointer;
+}
+#education .education-item {
+  padding: 20px;
+}
+
+#education .education-item .icon i {
+  font-size: 20px;
+}
+
+#education .education-item .icon i {
+  font-size: 50px;
+}
+
+#education .education-item h6 {
+  margin: 0;
+  margin-top: 50px;
+}
